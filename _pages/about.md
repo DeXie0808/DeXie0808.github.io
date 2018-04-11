@@ -38,4 +38,6 @@ Contests
  
 Friends
 ======
-[Chao Li](https://chaoli1991.github.io/)(Xidian Unversity) [Zeyu Li]()(Xidian Unversity) [Hao Wang](https://haowang1992.github.io/)(Xidian Unversity) [Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity) [Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity)
+[Chao Li](https://chaoli1991.github.io/)(Xidian Unversity) [Zeyu Li]()(Xidian Unversity) 
+[Hao Wang](https://haowang1992.github.io/)(Xidian Unversity) 
+[Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity) [Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity)
