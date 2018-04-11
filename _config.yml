@@ -81,10 +81,10 @@ author:
   name             : "De Xie (谢德)"
   avatar           : "my_photo.jpg"
   bio              : "M.S in Xidian University"
-  location         : "Location"
+  location         : "Xidian University"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "http://www.xiede.xd@gmail.com"
+  email            : "xiede.xd@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,10 +104,10 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             :
+  #xing             :
   youtube          :
   wikipedia        :
 
