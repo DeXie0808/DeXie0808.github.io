@@ -13,7 +13,8 @@ I am currently a first year PhD candidate co-supervised by Pro. [Wei Liu](http:/
 
 News
 ======
-* None   %* 2017-02-15 : One paper is accepted by Multimedia Tools and Application(MTAP). 
+* None   
+* 2017-02-15 : One paper is accepted by Multimedia Tools and Application(MTAP). 
 
 
 Recent Publications
@@ -37,4 +38,4 @@ Contests
  
 Friends
 ======
-[Chao Li]()(Xidian Unversity) [Zeyu Li]()(Xidian Unversity) [Hao Wang]()(Xidian Unversity) [Jiexi Yan]()(Xidian Unversity) [Zhiyuan Dang]()(Xidian Unversity)
+[Chao Li](https://chaoli1991.github.io/)(Xidian Unversity) [Zeyu Li]()(Xidian Unversity) [Hao Wang](https://haowang1992.github.io/)(Xidian Unversity) [Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity) [Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity)
