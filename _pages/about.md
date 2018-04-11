@@ -13,7 +13,7 @@ I am currently a first year PhD candidate co-supervised by Pro. [Wei Liu](http:/
 
 News
 ======
-*None   #* 2017-02-15 : One paper is accepted by Multimedia Tools and Application(MTAP). 
+* None   %* 2017-02-15 : One paper is accepted by Multimedia Tools and Application(MTAP). 
 
 
 Recent Publications
@@ -21,17 +21,20 @@ Recent Publications
 
 Journal
 ------
-Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition, Multimedia Tools and Applications(MTAP), 2017, [pdf](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf) [project](https://haowang1992.github.io/publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutional_Networks_for_Human_Action_Recognition) [code soon]()
+* None
+* Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition, Multimedia Tools and Applications(MTAP), 2017, [[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf) [[project]](https://haowang1992.github.io/publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutional_Networks_for_Human_Action_Recognition) [[code soon]]()
 
 Conference
 ------
+* None
 
 
 Contests
 ======
+* None
 * Large Scale 3D Human Activity Analysis Challenge in Depth Videos(ICME 2017 Workshop), Rank : 10/10 [result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)
 
  
 Friends
 ======
-[De Xie]()(Xidian Unversity)
+[Chao Li]()(Xidian Unversity) [Zeyu Li]()(Xidian Unversity) [Hao Wang]()(Xidian Unversity) [Jiexi Yan]()(Xidian Unversity) [Zhiyuan Dang]()(Xidian Unversity)
