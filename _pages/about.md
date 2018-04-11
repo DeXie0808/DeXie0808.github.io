@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first year PhD candidate co-supervised by Pro. [Wei Liu](http://www.ee.columbia.edu/~wliu/) and Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xi'an University of Architecture and Technology](http://www.xauat.edu.cn/zh-cn/index.php) in 2015.
+I am currently a second year M.S candidate co-supervised by Pro. [Wei Liu](http://www.ee.columbia.edu/~wliu/) and Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xi'an University of Architecture and Technology](http://www.xauat.edu.cn/zh-cn/index.php) in 2015.
 
 
 News
