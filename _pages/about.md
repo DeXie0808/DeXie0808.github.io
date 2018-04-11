@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "De Xie"
+title: "De Xie (谢德)"
 excerpt: "About me)"
 author_profile: true
 redirect_from: 
