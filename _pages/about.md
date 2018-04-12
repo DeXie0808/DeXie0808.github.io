@@ -32,7 +32,8 @@ Conference
 
 Contests
 ======
-* None
+* Intelligent Diagnosis of Pulmonary Nodules(Alibaba TIANCHI Season 2 2017), Rank : 31/2887 [result](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.9.69322009LOjfnv&raceId=231601&season=1)
+* Intelligent Diagnosis of Pulmonary Nodules(Alibaba TIANCHI Season 1 2017), Rank : 37/2887 [result](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.8.69322009LOjfnv&raceId=231601&season=0)
 * Large Scale 3D Human Activity Analysis Challenge in Depth Videos(ICME 2017 Workshop), Rank : 10/10 [result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)
 
  
