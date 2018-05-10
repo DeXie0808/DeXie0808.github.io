@@ -39,7 +39,7 @@ Contests
  
 Friends
 ======
-[Erkun Yang](http://erkunyang.com)(Xidian Unversity)  
+[Erkun Yang](https://yangerkun.github.io/)(Xidian Unversity)  
 [Chao Li](https://chaoli1991.github.io/)(Xidian Unversity)  
 [Zeyu Li](https://zeyuli1990.github.io/)(Xidian Unversity)  
 [Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)  
