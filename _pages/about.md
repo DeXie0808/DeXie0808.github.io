@@ -13,7 +13,7 @@ I am currently a second year M.S candidate co-supervised by Pro. [Wei Liu](http:
 
 News
 ======
-* None   
+* Nov. 1, 2018, two papers were accepted to AAAI2019 (~16.2% acceptance rate). 
 
 
 Recent Publications
@@ -27,7 +27,9 @@ Journal
 
 Conference
 ------
-* None
+* **D. Xie**, C. Deng, H. Wang, Chao Li, and D. Tao, Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019. 
+* Chao Li, C. Deng, L. Wang, **D. Xie**, and X. Liu, Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019.  
+
 
 
 Contests
