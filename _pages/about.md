@@ -28,9 +28,9 @@ Journal
 Conference
 ------
 * **D. Xie**, C. Deng, H. Wang, Chao Li, and D. Tao, Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification, In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019.  
-[[Paper]][[Code]]
+[[Paper]]()[[Code]]()
 * Chao Li, C. Deng, L. Wang, **D. Xie**, and X. Liu, Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval, In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019.  
-[[Paper]][[Code]]
+[[Paper]]()[[Code]]()
 
 
 
