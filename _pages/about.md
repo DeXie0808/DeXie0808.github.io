@@ -36,13 +36,20 @@ Conference
 
 Contests
 ======
-* Kaggle iMaterialist Challenge (Furniture) at FGVC5 (CVPR 2018 Workshop), Rank : 8/436 [[result]](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018/leaderboard) [[code]](https://github.com/ShadowXIEDE/imaterialist2018)
-* Fashion AI Challenge: Clothing Key Point Localization(Alibaba TIANCHI Season 2 2018), Rank : 55/2322 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.7.4d0627849zW9Kv&raceId=231648&season=1)
-* Fashion AI Challenge: Clothing Attribute Label Recognition(Alibaba TIANCHI Season 2 2018), Rank : 41/2950 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.10.4d0627849zW9Kv&raceId=231649&season=1)
-* Fashion AI Challenge: Clothing Key Point Localization(Alibaba TIANCHI Season 1 2018), Rank : 59/2322 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.6.4d0627849zW9Kv&raceId=231648&season=0)
-* Fashion AI Challenge: Clothing Attribute Label Recognition(Alibaba TIANCHI Season 1 2018), Rank : 58/2950 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.9.4d0627849zW9Kv&raceId=231649&season=0)
-* Intelligent Diagnosis of Pulmonary Nodules(Alibaba TIANCHI Season 2 2017), Rank : 31/2887 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.9.69322009LOjfnv&raceId=231601&season=1)
-* Intelligent Diagnosis of Pulmonary Nodules(Alibaba TIANCHI Season 1 2017), Rank : 37/2887 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.8.69322009LOjfnv&raceId=231601&season=0)
+* Kaggle iMaterialist Challenge (Furniture) at FGVC5 (CVPR 2018 Workshop).  
+Rank : 8/436 [[result]](https://www.kaggle.com/c/imaterialist-challenge-furniture-2018/leaderboard) [[code]](https://github.com/ShadowXIEDE/imaterialist2018)
+* Fashion AI Challenge: Clothing Key Point Localization(Alibaba TIANCHI Season 2 2018).  
+Rank : 55/2322 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.7.4d0627849zW9Kv&raceId=231648&season=1)
+* Fashion AI Challenge: Clothing Attribute Label Recognition(Alibaba TIANCHI Season 2 2018).  
+Rank : 41/2950 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.10.4d0627849zW9Kv&raceId=231649&season=1)
+* Fashion AI Challenge: Clothing Key Point Localization(Alibaba TIANCHI Season 1 2018).  
+Rank : 59/2322 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.6.4d0627849zW9Kv&raceId=231648&season=0)
+* Fashion AI Challenge: Clothing Attribute Label Recognition(Alibaba TIANCHI Season 1 2018).  
+Rank : 58/2950 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.9.4d0627849zW9Kv&raceId=231649&season=0)
+* Intelligent Diagnosis of Pulmonary Nodules(Alibaba TIANCHI Season 2 2017).  
+Rank : 31/2887 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.9.69322009LOjfnv&raceId=231601&season=1)
+* Intelligent Diagnosis of Pulmonary Nodules(Alibaba TIANCHI Season 1 2017).  
+Rank : 37/2887 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=5176.100150.711.8.69322009LOjfnv&raceId=231601&season=0)
 
 
  
