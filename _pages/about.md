@@ -15,8 +15,10 @@ I completed my Master's degrees from [Xi'an University of Architecture and Techn
 E-mail:   
 * xiede.xd@gmail.com
 * dxie@stu.xidian.edu.cn  
-Office:  III-315, Main Building  
-Address: No.2 South Taibai Road, Xi'an 710071, Shaanxi, China  
+Office:  
+* III-315, Main Building  
+Address: 
+* No.2 South Taibai Road, Xi'an 710071, Shaanxi, China  
 
 News
 ======
