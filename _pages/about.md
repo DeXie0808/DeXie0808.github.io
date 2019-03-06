@@ -60,7 +60,7 @@ Rank : 37/2887 [[result]](https://tianchi.aliyun.com/user/certificate.htm?spm=51
  
 Friends
 ======
-[Jie Xu](https://jxu1991.github.io/)(Xidian Unversity)  
+[Jie Xu](https://jxu1991.github.io/)(Cornell University)  
 [Erkun Yang](https://yangerkun.github.io/)(Xidian Unversity)  
 [Chao Li](https://chaoli1991.github.io/)(Xidian Unversity)  
 [Zeyu Li](https://zeyuli1990.github.io/)(Xidian Unversity)  
