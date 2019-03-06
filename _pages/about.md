@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate supervised by Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.E. degree from [Xi'an University of Architecture and Technology](http://www.xauat.edu.cn/zh-cn/index.php) in 2015.
+My name is De Xie (谢德). I am now a Ph.D. student at Department of Electronic Engineering, [XiDian University](http://www.xidian.edu.cn/). My advisor is Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/). My research interest lies in computer vision, natural language processing and multi-model analysis.
 
+I completed my Master's degrees from [Xi'an University of Architecture and Technology](http://www.xauat.edu.cn/zh-cn/index.php). I received my bachelor's degree from [Xi'an University of Architecture and Technology](http://www.xauat.edu.cn/zh-cn/index.php) in 2015.
 
 News
 ======
-* Nov. 1, 2018, two papers were accepted to AAAI2019 (~16.2% acceptance rate). 
+* 2018.11: two papers were accepted to AAAI2019 (~16.2% acceptance rate). 
 
 
 Recent Publications
