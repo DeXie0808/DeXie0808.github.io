@@ -12,8 +12,7 @@ My name is De Xie (谢德). I am now a Ph.D. student at Department of Electronic
 
 I completed my Master's degrees from [Xi'an University of Architecture and Technology](http://www.xauat.edu.cn/zh-cn/index.php). I received my bachelor's degree from [Xi'an University of Architecture and Technology](http://www.xauat.edu.cn/zh-cn/index.php) in 2015.
 
-Email:   xiede.xd@gmail.com  
-         dxie@stu.xidian.edu.cn  
+Email:   xiede.xd@gmail.com, dxie@stu.xidian.edu.cn  
 Office:  III-315, Main Building  
 Address: No.2 South Taibai Road, Xi'an 710071, Shaanxi, China  
 
