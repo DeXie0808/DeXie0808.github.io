@@ -11,9 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Xi’an University of Architecture and Technology, 2011-2015
+* M.S. in Electronic Engineering, Xidian University, 2016-2018
+* Ph.D in Electronic Engineering, Xidian University, 2019-present
+
+
+Skills
+======
+* Python/C++/Matlab/Lua
+* Latex
+* Deep Learning Tools
+  * Pytorch
+  * Keras
+  * Tensorflow
+  * MxNet
+* Qt
+
 
 Work experience
 ======
@@ -27,14 +40,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
