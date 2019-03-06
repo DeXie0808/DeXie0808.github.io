@@ -18,7 +18,7 @@ Education
 
 Skills
 ======
-* Python, C/C++, Matlab, Lua, php, Perl, Go
+* Python, C/C++, Matlab, Lua, PHP, Perl, Go
 * Latex, Markdown
 * Deep Learning Tools
   * caffe/caffe2
