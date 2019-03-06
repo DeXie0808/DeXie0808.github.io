@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "De Xie (谢德)"
   avatar           : "my_photo.jpg"
-  bio              : "M.S in Xidian University"
+  bio              : "Ph.D. student of The Department of Electronic Engineering at Xidian University"
   location         : "Xidian University"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5535-0898"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
