@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is De Xie (谢德). I am now a Ph.D. student at Department of Electronic Engineering, [XiDian University](http://www.xidian.edu.cn/). My advisor is Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/). My research interest lies in computer vision, natural language processing and multi-modal analysis.
+My name is De Xie (谢德). I am now a Ph.D. student at Department of Electronic Engineering, [Xidian University](http://www.xidian.edu.cn/). My advisor is Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/). My research interest lies in computer vision, natural language processing and multi-modal analysis.
 
-I completed my Master's degrees from [XiDian University](http://www.xidian.edu.cn/) in 2019. Before that, I received my bachelor's degree from [Xi'an University of Architecture and Technology](http://www.xauat.edu.cn/zh-cn/index.php) in 2015.  
+I completed my Master's degrees from [Xidian University](http://www.xidian.edu.cn/) in 2019. Before that, I received my bachelor's degree from [Xi'an University of Architecture and Technology](http://www.xauat.edu.cn/zh-cn/index.php) in 2015.  
 
 E-mail:  xiede.xd@gmail.com, dxie@stu.xidian.edu.cn  
 Office:  III-315, Main Building  
