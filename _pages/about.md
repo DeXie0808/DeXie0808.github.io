@@ -18,6 +18,7 @@ Address: No.2 South Taibai Road, Xi'an 710071, Shaanxi, China
 
 News
 ======
+* 2019.09：one paper was accepted to NeurIPS2019 (~21% acceptance rate).
 * 2018.11: two papers were accepted to AAAI2019 (~16.2% acceptance rate). 
 
 
@@ -32,9 +33,11 @@ Journal
 
 Conference
 ------
+* C. Li, C. Deng, S. Gao, **D. Xie**, and W. Liu, Cross-Modal Learning with Adversarial Samples, In Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2019.
+[[Paper]]()[[Code]]()
 * **D. Xie**, C. Deng, H. Wang, Chao Li, and D. Tao, Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification, In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019.  
 [[Paper]]()[[Code]]()
-* Chao Li, C. Deng, L. Wang, **D. Xie**, and X. Liu, Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval, In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019.  
+* C. Li, C. Deng, L. Wang, **D. Xie**, and X. Liu, Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval, In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019.  
 [[Paper]]()[[Code]]()
 
 
