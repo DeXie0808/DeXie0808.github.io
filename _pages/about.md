@@ -18,6 +18,7 @@ Address: No.2 South Taibai Road, Xi'an 710071, Shaanxi, China
 
 News
 ======
+* 2019.12：one paper was accepted to IEEE Trans. Image Process..
 * 2019.09: one paper was accepted to NeurIPS2019 (~21% acceptance rate).
 * 2018.11: two papers were accepted to AAAI2019 (~16.2% acceptance rate). 
 
@@ -27,8 +28,8 @@ Recent Publications
 
 Journal
 ------
-* None
-<!--* Exploring Hybrid Spatio-Temporal Convolutional Networks for Human Action Recognition, Multimedia Tools and Applications(MTAP), 2017, [[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs11042-017-4514-3.pdf) [[project]](https://haowang1992.github.io/publication/2017-07-01-Exploring_Hybrid_Spatio-Temporal_Convolutional_Networks_for_Human_Action_Recognition) [[code]]()-->
+* **D Xie**, C Deng, C. Li, X. Liu, D. Tao, Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval, IEEE Trans. Image Process., 2019.(IF=6.790)
+[[Paper]]()[[Code]]()
 
 
 Conference
