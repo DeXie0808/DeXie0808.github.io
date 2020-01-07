@@ -18,7 +18,7 @@ Address: No.2 South Taibai Road, Xi'an 710071, Shaanxi, China
 
 News
 ======
-* 2019.12：one paper was accepted to IEEE Trans. Image Process..
+* 2019.12: one paper was accepted to IEEE Trans. Image Process..
 * 2019.09: one paper was accepted to NeurIPS2019 (~21% acceptance rate).
 * 2018.11: two papers were accepted to AAAI2019 (~16.2% acceptance rate). 
 
@@ -28,7 +28,7 @@ Recent Publications
 
 Journal
 ------
-* **D Xie**, C Deng, C. Li, X. Liu, D. Tao, Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval, IEEE Trans. Image Process., 2019.(IF=6.790)
+* **D Xie**, C Deng, C. Li, X. Liu, D. Tao, Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval, IEEE Trans. Image Process., 2019.(IF=6.790)  
 [[Paper]]()[[Code]]()
 
 
