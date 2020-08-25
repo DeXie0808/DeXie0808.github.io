@@ -28,7 +28,7 @@ Recent Publications
 
 Journal
 ------
-* **D Xie**, C Deng, C. Li, X. Liu, D. Tao, Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval, IEEE Trans. Image Process., 2019.(IF=6.790)  
+* **D Xie**, C Deng, C. Li, X. Liu, D. Tao, Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval, IEEE Trans. Image Process., 2020.(IF=9.340)  
 [[Paper]]()[[Code]]()
 
 
