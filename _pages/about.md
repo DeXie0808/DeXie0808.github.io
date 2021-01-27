@@ -29,7 +29,7 @@ Recent Publications
 
 Journal
 ------
-* Y. Yang, L. Wang, **D. Xie**, C. Deng, and D. Tao, Multi-sentence Auxiliary Adversarial Networks for Fine-grained Text-to-Image Synthesis, IEEE Trans. Image Process., 2021.(IF=9.340)
+* Y. Yang, L. Wang, **D. Xie**, C. Deng, and D. Tao, Multi-sentence Auxiliary Adversarial Networks for Fine-grained Text-to-Image Synthesis, IEEE Trans. Image Process., 2021.(IF=9.340)  
 [[Paper]]()[[Code]]()
 * **D Xie**, C Deng, C. Li, X. Liu, D. Tao, Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval, IEEE Trans. Image Process., 2020.(IF=9.340)  
 [[Paper]]()[[Code]]()
